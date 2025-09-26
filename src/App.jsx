@@ -65,7 +65,7 @@ function App() {
   };
 
   return (
-    <main className=" min-w-[360px] max-w-[1910] w-[99vw] overflow-x-hidden overflow-y-scroll flex items-center flex-col gap-4 text-white lg:flex-row lg:justify-center lg:content-center lg:items-center relative mt-[5%] mb-2">
+    <main className=" min-w-[360px] max-w-[1910] w-[99vw] overflow-x-hidden overflow-y-scroll flex items-center flex-col gap-4 text-white lg:flex-row lg:justify-center lg:content-center lg:items-center relative mt-[3%] mb-2">
 
       {/* Contact Panels */}
       <div className="block md:hidden">
