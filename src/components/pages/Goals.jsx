@@ -55,12 +55,7 @@ const careerGoals = [
     Icon: FaGlobeAmericas,
     color: "text-yellow-400",
   },
-  {
-    title: "Secure an Ausbildung as IT Specialist",
-    description: "Gain hands-on industry experience in app & software development in Germany..",
-    Icon: MdOutlineWorkspacePremium,
-    color: "text-pink-400",
-  },
+ 
   {
     title: "Land My Dream Job",
     description: "Work with a leading tech company or launch my own venture as a full-stack developer.",

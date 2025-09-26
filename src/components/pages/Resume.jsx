@@ -16,13 +16,7 @@ const Resume = () => {
       description:
         "Learning WordPress, React, JavaScript, Node.js, and backend development through hands-on projects and courses.",
     },
-    {
-      title: "Future Goal – Ausbildung in Germany",
-      subtitle: "Career Development",
-      year: "Upcoming",
-      description:
-        "Aiming to pursue Ausbildung in Germany and grow into a professional full-stack developer.",
-    },
+   
   ];
 
   const experience = [
